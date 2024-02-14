@@ -1,0 +1,12 @@
+.blogs-list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 36px;
+}
+
+.blogs-list {
+  list-style-type: none;
+  padding-left: 0px;
+}
